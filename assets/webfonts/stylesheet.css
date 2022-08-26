@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Karma Future';
+    src: url('KarmaFuture-Regular.woff2') format('woff2'),
+        url('KarmaFuture-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karma Suture';
+    src: url('KarmaSuture-Regular.woff2') format('woff2'),
+        url('KarmaSuture-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
